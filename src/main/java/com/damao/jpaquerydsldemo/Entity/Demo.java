@@ -5,6 +5,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 /**
+ * 仅仅用于演示
  * @author huyongxing
  * @email huyongxing@qihaiyun.com
  * @date 2018/6/14 11:34
