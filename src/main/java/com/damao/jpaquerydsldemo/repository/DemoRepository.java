@@ -6,7 +6,7 @@ import org.springframework.data.repository.CrudRepository;
 
 /**
  * @author huyongxing
- * @email huyongxing@qihaiyun.com
+ * @site www.skson.com
  * @date 2018/6/14 11:27
  */
 public interface DemoRepository extends CrudRepository<Demo, Integer>, QuerydslPredicateExecutor<Demo> {
